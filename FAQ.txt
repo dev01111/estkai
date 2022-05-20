@@ -1,0 +1,52 @@
+FAQ:
+
+Where's the config?
+
+Configuration is stored at %APPDATA%\supertuxkart\addons\estkai-config.txt.
+
+What does the config tell the program?
+
+It tells the program where to install addons from.
+It is a one line document with the path to install addons.
+
+What's a batchfile script?
+
+You can't use the program if you don't know. It's a file containing code, similar to a .exe.
+The code is writen in Windows commands. The installer uses various .exes, stated in the "dependancies" area.
+
+What's the dependancies?
+
+Required .exes:
+
+cmd.exe
+echo.exe
+xcopy.exe
+powershell.exe
+if.exe
+
+Windows 10 build 21H2 or later.
+
+Most commands will be included in Win10 21H2.
+
+Stable versions?
+
+Stable versions are versions that have less bugs. The current stable versions are 1.1 and 1.4. You should get 1.4.
+Some versions are more glitchy then others, we change the stable version after a bug is detected.
+
+What's SuperTuxKart?
+
+No point getting this if you don't know.
+SuperTuxKart is a karting game that is open-source.
+eSTKai is an addon installer for SuperTuxKart.
+
+What's eSTKai stand for?
+
+Effecient SuperTuxKart addon installer.
+
+Why am I reading this?
+
+Because you want to learn about STK and eSTKai? I guess.
+
+The offical github is where?
+
+https://github.com/dev01111/estkai
