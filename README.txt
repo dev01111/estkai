@@ -56,5 +56,7 @@ test.zip  test
          |
        addons
 
+Now, set the repo using estkai-config.txt (see config location at FAQ.txt)
+
 
 Made by Buggem & DARKNESS
