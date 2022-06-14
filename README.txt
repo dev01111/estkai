@@ -25,6 +25,9 @@ Syntax:
 
 estkai-remove [karts/tracks] [package name]
 
+Searching for packages:
+
+estkai-search  [karts/tracks]
 
 Make your own repo!
 
