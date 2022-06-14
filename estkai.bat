@@ -13,7 +13,7 @@ echo Installing the %1 %2 from %var[1]%...
 
 pause
 
-if not exist "C:\estkai-files" ( mkdir C:\estkai-files )
+if not exist "C:\estkai-files" ( mkdir "C:\estkai-files" )
 
 echo Downloading main source from repo...
 
@@ -23,7 +23,7 @@ xcopy /y /f "%var[1]%\%1\%2.zip" "C:\estkai-files"
 
 rem copy "%var[1]%\%1\%2.zip" "C:\estkai-files"
 
-if not exist "%APPDATA%\supertuxkart\addons\%1" ( mkdir %APPDATA%\supertuxkart\addons\%1 )
+if not exist "%APPDATA%\supertuxkart\addons\%1" ( mkdir "%APPDATA%\supertuxkart\addons\%1" )
 
 echo Copying to STK...
 
