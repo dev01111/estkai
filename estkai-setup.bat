@@ -9,7 +9,7 @@ set addonsfolder=%APPDATA%/supertuxkart/addons
 
 echo Addons will be installed at: %addonsfolder%
 
-if not exist "%addonsfolder%" ( mkdir %addonsfolder% )
+if not exist "%addonsfolder%" ( mkdir "%addonsfolder%" )
 
 set /P addonsdict="Type in repo for installing addons... "
 echo User chose %addonsdict%
@@ -25,7 +25,7 @@ if %fone%==%correct% ( exit )
 
 echo Passed error test.
 
-echo %addonsdict%> %addonsfolder%/estkai-config.txt
+echo %addonsdict%> "%addonsfolder%/estkai-config.txt"
 
 echo Wrote config to %addonsfolder%/estkai-config.txt
 

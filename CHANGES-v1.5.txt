@@ -1,0 +1,5 @@
+Since estkai-setup was untouched since beta 1, we had to updating this crap file:
+
+estkai-setup.bat
+
+So we have now confirmed that you can run estkai-setup after the initial setup without problems.
