@@ -4,6 +4,7 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Rewiewer - Getting reviews...
 
+estkai-update-check
 
 set count=0
 

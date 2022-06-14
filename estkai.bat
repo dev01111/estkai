@@ -3,6 +3,8 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Installing addon %1 %2...
 
+estkai-update-check
+
 set count=0
 
 for /f "tokens=*" %%x in (%APPDATA%\supertuxkart\addons\estkai-config.txt) do (

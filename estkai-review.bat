@@ -4,6 +4,8 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Rewiewer
 
+estkai-update-check
+
 
 set count=0
 
