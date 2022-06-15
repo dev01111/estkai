@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Installing addon %1 %2...
 
-estkai-update-check
+
 
 set count=0
 
@@ -36,3 +36,5 @@ powershell -command "Expand-Archive -Force '%APPDATA%\supertuxkart\addons\%1\%2.
 echo Operation complete!
 
 pause
+
+estkai-update-check

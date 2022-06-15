@@ -4,7 +4,6 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Rewiewer - Getting reviews...
 
-estkai-update-check
 
 set count=0
 
@@ -25,3 +24,5 @@ for /f "tokens=*" %%x in (C:\estkai-files\%2-review-%3.txt) do (
 )
 
 echo %varb[1]%
+
+estkai-update-check

@@ -4,8 +4,6 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Rewiewer
 
-estkai-update-check
-
 
 set count=0
 
@@ -26,3 +24,5 @@ if exist "C:\estkai-files\%2-review-%name%.txt" ( del "C:\estkai-files\%2-review
 echo %review%> "C:\estkai-files\%2-review-%name%.txt"
 
 xcopy /y /f "C:\estkai-files\%2-review-%name%.txt" "%var[1]%\%1\"
+
+estkai-update-check

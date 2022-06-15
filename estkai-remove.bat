@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Removing addon %1 %2...
 
-estkai-update-check
+
 
 set count=0
 
@@ -26,3 +26,5 @@ echo This %2 of the %1 group was deleted by eSTKai> %APPDATA%\supertuxkart\addon
 echo Operation completed
 
 pause
+
+estkai-update-check

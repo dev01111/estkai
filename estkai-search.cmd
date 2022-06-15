@@ -3,7 +3,6 @@ setlocal enabledelayedexpansion
 
 title eSTKai - Searching for addons...
 
-estkai-update-check
 
 set count=0
 
@@ -13,3 +12,5 @@ for /f "tokens=*" %%x in (%APPDATA%\supertuxkart\addons\estkai-config.txt) do (
 )
 echo Available addon %1:
 dir "%var[1]%\%1"
+
+estkai-update-check
