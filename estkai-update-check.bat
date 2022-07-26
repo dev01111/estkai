@@ -19,5 +19,5 @@ for /f "tokens=*" %%x in (%APPDATA%\supertuxkart\addons\latest-estkai.txt) do (
 if %var[1]% LEQ %version% (
 echo No updates avalible
 ) else (
-echo Update %var[0]% avalible, get it from GitHub.
+echo Update %var[1]% avalible, get it from GitHub.
 )
