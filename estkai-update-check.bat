@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set version=1.6
+set version=1.7
 
 set latest=https://github.com/dev01111/estkai/raw/main/latest.txt
 
