@@ -19,7 +19,6 @@ What's the dependancies?
 Required .exes:
 
 cmd.exe
-echo.exe
 xcopy.exe
 powershell.exe
 
@@ -50,3 +49,12 @@ Because you want to learn about STK and eSTKai? I guess.
 The offical github is where?
 
 https://github.com/dev01111/estkai
+
+And that's it?
+
+Yes I don't think they'll be any future updates. Sorry! We've already got all the updates we need.
+
+What is your use of this program?
+
+I don't use it anymore. SuperTuxKart used to be popular now no-one cares about it for some reason.
+People used to like sharing their karts so I made this repo where you could share your karts. It's gone now.
