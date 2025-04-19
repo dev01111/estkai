@@ -1,2 +1,2 @@
-Current stable is 1.5
-The bug we detected affects every version before.
+Current stable is 1.8
+Switch to Python you MS sillies
