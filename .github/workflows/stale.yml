@@ -22,6 +22,6 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: 'There has been no activity recently on this issue.'
-        stale-pr-message: 'Your pull request will probably not take notice from the developer, thanks!.'
+        stale-pr-message: 'Your PR has been locked due to inactivity, blah blah, etc.'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
