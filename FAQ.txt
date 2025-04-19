@@ -40,7 +40,7 @@ eSTKai is an addon installer for SuperTuxKart.
 
 What's eSTKai stand for?
 
-Effecient SuperTuxKart addon installer.
+Effecient SuperTuxKart Addon Installer.
 
 Why am I reading this?
 
