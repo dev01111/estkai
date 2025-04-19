@@ -9,28 +9,18 @@ What does the config tell the program?
 It tells the program where to install addons from.
 It is a one line document with the path to install addons.
 
-What's a batchfile script?
+What's a Python script?
 
-You can't use the program if you don't know. It's a file containing code, similar to a .exe.
-The code is writen in Windows commands. The installer uses various .exes, stated in the "dependancies" area.
+A script made in Pythong HOLY SHIT WHY DO I KEEP CALLING IT PYTHONG
 
 What's the dependancies?
 
-Required .exes:
-
-cmd.exe
-xcopy.exe
-powershell.exe
-
-
-Windows 10 build 21H2 or later.
-
-Most commands will be included in Win10 21H2.
+For the new Python version, only urllib library to download files, and some builtin stuff as well. (is urllib built in?)
 
 Stable versions?
 
-Stable versions are versions that have less bugs. The current stable versions are 1.1 and 1.4. You should get 1.4.
-Some versions are more glitchy then others, we change the stable version after a bug is detected. See STABLES.txt for more info.
+Stable versions are versions that have less bugs. The current stable (and only release of eSTKai Python) is 1.8.
+See STABLES.txt for more info.
 
 What's SuperTuxKart?
 
@@ -41,6 +31,7 @@ eSTKai is an addon installer for SuperTuxKart.
 What's eSTKai stand for?
 
 Effecient SuperTuxKart Addon Installer.
+(alright yes I did call it Easy SuperTuxKart Addon Installer, BUT THIS IS 3 YEARS LATER I HAVE A RIGHT TO FORGET)
 
 Why am I reading this?
 
@@ -52,9 +43,10 @@ https://github.com/dev01111/estkai
 
 And that's it?
 
-Yes I don't think they'll be any future updates. Sorry! We've already got all the updates we need.
+No, probably some more updates coming to the Python version.
+Legacy versions, well (we abandoned them) but you can still do PRs if you want to fix problems that bad.
 
 What is your use of this program?
 
-I don't use it anymore. SuperTuxKart used to be popular now no-one cares about it for some reason.
-People used to like sharing their karts so I made this repo where you could share your karts. It's gone now.
+I still don't use it. SuperTuxKart used to be popular 3 years ago, now no-one cares about it for some reason.
+People used to like sharing their karts so I made this repo where you could share your karts. It's gone now. (yep I forgot to archive it)
