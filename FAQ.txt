@@ -50,3 +50,6 @@ What is your use of this program?
 
 I still don't use it. SuperTuxKart used to be popular 3 years ago, now no-one cares about it for some reason.
 People used to like sharing their karts so I made this repo where you could share your karts. It's gone now. (yep I forgot to archive it)
+
+EDIT: turns out I still had a copy! https://github.com/dev01111/estkai/blob/python/2OP.tar.gz
+
